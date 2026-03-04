@@ -47,8 +47,6 @@ Gen AI is a project focused on generating CIFAR-10-like images using Generative 
 ![Image 2](screenshots/screenshot2.png)
 ![Image 3](screenshots/screenshot3.png)
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
-For any inquiries or support, please contact [abhijeetmaharana77@.com](mailto:abhijeetmaharana77@gmail.com).
+For any inquiries or support, please contact (mailto:krishnapankhania50@gmail.com).
